@@ -1,0 +1,9 @@
+/* This contains custom styles written by me */
+
+.caret-container {
+    float: right;
+  }
+ .caret-up{
+      border-top-width: 0;
+    border-bottom: 4px solid;
+ }
